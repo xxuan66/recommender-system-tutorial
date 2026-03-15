@@ -1,5 +1,21 @@
 # 🎯 推荐系统从入门到实战
 
+## 📊 仓库统计
+
+> 🤖 每日自动更新 · 最后更新：2026-03-15
+
+| 指标 | 数值 |
+|------|------|
+| ⭐ Stars | 1 |
+| 🍴 Forks | 0 |
+| 👀 访问量 | 17 |
+| 📥 克隆数 | 128 |
+
+---
+
+
+
+
 > 系统化的推荐系统学习教程，涵盖基础理论、经典算法、深度学习、实战项目全流程
 
 [![Stars](https://img.shields.io/github/stars/xxuan66/recommender-system-tutorial)](https://github.com/xxuan66/recommender-system-tutorial/stargazers)
