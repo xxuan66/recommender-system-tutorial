@@ -340,3 +340,37 @@ MIT License
 **⭐ 如果这个项目对你有帮助，请给一个 Star！**
 
 **📢 欢迎分享给更多需要的朋友！**
+
+## 🛠️ 推荐系统工具箱
+
+### 常用框架对比
+
+| 框架 | 特点 | 适用场景 | GitHub Stars |
+|------|------|---------|--------------|
+| **RecBole** | 统一框架，100+ 模型 | 学术研究、快速实验 | ⭐ 3.2k |
+| **DeepCTR** | 深度学习 CTR 预估 | 工业级点击率预估 | ⭐ 6.5k |
+| **LightFM** | 混合推荐 | 冷启动场景 | ⭐ 4.6k |
+| **Surprise** | 协同过滤 | 教学、小规模实验 | ⭐ 6.2k |
+| **TensorFlow Recommenders** | Google 出品 | TensorFlow 生态 | ⭐ 2.1k |
+
+### 快速代码模板
+
+```python
+# 使用 RecBole 快速实验
+from recbole.quick_start import run_recbole
+
+# 一行代码训练模型
+run_recbole(
+    model='BPR',
+    dataset='ml-100k',
+    config_dict={'epochs': 100}
+)
+```
+
+---
+
+## 🆕 2026-03-18 更新
+
+- ✅ 新增推荐系统工具箱章节
+- ✅ 添加常用框架对比表
+- ✅ 补充快速代码模板
