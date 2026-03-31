@@ -269,6 +269,7 @@ run_recbole(
 当前已新增：
 
 - [MovieLens 实验说明与常见坑](./MOVIELENS_EXPERIMENT_GUIDE.md)
+- [推荐系统面试问答清单](./RECOMMENDER_INTERVIEW_QA.md)
 
 ---
 
