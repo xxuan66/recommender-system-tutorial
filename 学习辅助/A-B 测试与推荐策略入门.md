@@ -208,10 +208,10 @@
 
 ## 11. 建议和仓库里的哪些内容一起看
 
-- 先补基础评估：看 `EVALUATION_METRICS_CHEATSHEET.md`
-- 想理解真实业务场景：看 `RECOMMENDER_CASE_STUDY_NOTES.md`
-- 想把实验做成项目：看 `PORTFOLIO_PROJECT_TEMPLATE.md`
-- 想准备更完整的表达：看 `RECOMMENDER_INTERVIEW_QA.md`
+- 先补基础评估：看 `推荐系统评估指标速查表.md`
+- 想理解真实业务场景：看 `推荐系统案例拆解笔记.md`
+- 想把实验做成项目：看 `从教程到作品集的整理模板.md`
+- 想准备更完整的表达：看 `推荐系统面试问答清单.md`
 
 ---
 

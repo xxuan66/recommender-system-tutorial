@@ -246,12 +246,12 @@ run_recbole(
 
 除了主章节，这个仓库也补了一些更适合学习、实验、项目整理和面试准备时配合使用的辅助文档：
 
-- [推荐系统评估指标速查表](./EVALUATION_METRICS_CHEATSHEET.md)
-- [MovieLens 实验说明与常见坑](./MOVIELENS_EXPERIMENT_GUIDE.md)
-- [推荐系统案例拆解笔记](./RECOMMENDER_CASE_STUDY_NOTES.md)
-- [A/B 测试与推荐策略入门](./AB_TEST_AND_RECOMMENDATION_STRATEGY.md)
-- [推荐系统面试问答清单](./RECOMMENDER_INTERVIEW_QA.md)
-- [从教程到作品集的整理模板](./PORTFOLIO_PROJECT_TEMPLATE.md)
+- [推荐系统评估指标速查表](./学习辅助/推荐系统评估指标速查表.md)
+- [MovieLens 实验说明与常见坑](./学习辅助/MovieLens 实验说明与常见坑.md)
+- [推荐系统案例拆解笔记](./学习辅助/推荐系统案例拆解笔记.md)
+- [A/B 测试与推荐策略入门](./学习辅助/A-B 测试与推荐策略入门.md)
+- [推荐系统面试问答清单](./学习辅助/推荐系统面试问答清单.md)
+- [从教程到作品集的整理模板](./学习辅助/从教程到作品集的整理模板.md)
 
 如果你的目标不同，可以这样配合阅读：
 
