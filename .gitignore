@@ -55,3 +55,6 @@ models/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local planning
+CONTENT_PLAN.md

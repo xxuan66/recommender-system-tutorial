@@ -129,7 +129,6 @@
 ```text
 recommender-system-tutorial/
 ├── README.md
-├── CONTENT_PLAN.md
 ├── requirements.txt
 ├── 01-入门篇/
 ├── 02-基础篇/
@@ -144,7 +143,7 @@ recommender-system-tutorial/
     └── 19-如何继续进阶.md
 ```
 
-`README.md` 负责总导航，章节正文负责知识展开，`CONTENT_PLAN.md` 负责后续扩展规划。
+`README.md` 负责总导航，章节正文负责知识展开。
 
 ---
 
