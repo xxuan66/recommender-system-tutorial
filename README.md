@@ -249,6 +249,7 @@ run_recbole(
 - [推荐系统评估指标速查表](./EVALUATION_METRICS_CHEATSHEET.md)
 - [MovieLens 实验说明与常见坑](./MOVIELENS_EXPERIMENT_GUIDE.md)
 - [推荐系统案例拆解笔记](./RECOMMENDER_CASE_STUDY_NOTES.md)
+- [A/B 测试与推荐策略入门](./AB_TEST_AND_RECOMMENDATION_STRATEGY.md)
 - [推荐系统面试问答清单](./RECOMMENDER_INTERVIEW_QA.md)
 - [从教程到作品集的整理模板](./PORTFOLIO_PROJECT_TEMPLATE.md)
 
