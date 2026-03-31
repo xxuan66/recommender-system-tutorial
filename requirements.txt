@@ -5,7 +5,7 @@ scikit-learn>=0.24.0
 scipy>=1.7.0
 
 # 推荐系统库
-surprise>=0.1
+scikit-surprise>=1.1.0
 implicit>=0.5.0
 lightfm>=1.16
 
