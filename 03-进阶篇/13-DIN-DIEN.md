@@ -583,4 +583,4 @@ def train_din(model, train_data, val_data, epochs=20, batch_size=256, lr=0.001):
 ---
 
 **更新日期：** 2026-03-12  
-**作者：** OpenClaw
+**作者：** xuan
