@@ -266,6 +266,10 @@ run_recbole(
 - 推荐系统面试问答
 - 从教程到作品集的整理模板
 
+当前已新增：
+
+- [MovieLens 实验说明与常见坑](./MOVIELENS_EXPERIMENT_GUIDE.md)
+
 ---
 
 ## 贡献方式
