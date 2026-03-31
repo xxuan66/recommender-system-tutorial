@@ -270,6 +270,7 @@ run_recbole(
 
 - [MovieLens 实验说明与常见坑](./MOVIELENS_EXPERIMENT_GUIDE.md)
 - [推荐系统面试问答清单](./RECOMMENDER_INTERVIEW_QA.md)
+- [从教程到作品集的整理模板](./PORTFOLIO_PROJECT_TEMPLATE.md)
 
 ---
 
